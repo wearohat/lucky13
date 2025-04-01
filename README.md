@@ -1,6 +1,6 @@
 # LUCKY13 Exploit
 
-This repository contains a proof-of-concept (POC) exploit for the LUCKY13 vulnerability, which is a timing attack against certain implementations of the CBC (Cipher Block Chaining) mode of operation in cryptographic systems. The exploit aims to decrypt a target token by leveraging the timing differences in responses based on padding validation.
+This repository contains a proof-of-concept (POC) exploit for the LUCKY13 vulnerability (CVE-2013-0169), which is a timing attack against certain implementations of the CBC (Cipher Block Chaining) mode of operation in cryptographic systems. The exploit aims to decrypt a target token by leveraging the timing differences in responses based on padding validation.
 
 ## Prerequisites
 
